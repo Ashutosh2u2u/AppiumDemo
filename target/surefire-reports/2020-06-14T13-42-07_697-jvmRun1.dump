@@ -1,0 +1,42 @@
+# Created at 2020-06-14T13:42:09.992
+java.lang.Error: Unresolved compilation problems: 
+	The import com.aventstack cannot be resolved
+	The import com.aventstack cannot be resolved
+	The import com.aventstack cannot be resolved
+	The import com.aventstack cannot be resolved
+	ExtentReports cannot be resolved to a type
+	ExtentHtmlReporter cannot be resolved to a type
+	ExtentHtmlReporter cannot be resolved to a type
+	ExtentHtmlReporter cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	ExtentHtmlReporter cannot be resolved to a type
+	Status cannot be resolved to a variable
+	Status cannot be resolved to a variable
+	Status cannot be resolved to a variable
+	ExtentReports cannot be resolved to a type
+	Status cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+
+	at resources.ExtentReporterNG.<init>(ExtentReporterNG.java:14)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.testng.internal.InstanceCreator.newInstance(InstanceCreator.java:30)
+	at org.testng.TestNG.addListeners(TestNG.java:944)
+	at org.testng.TestNG.initializeConfiguration(TestNG.java:904)
+	at org.testng.TestNG.initializeEverything(TestNG.java:988)
+	at org.testng.TestNG.run(TestNG.java:999)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
+
+
